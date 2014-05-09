@@ -26,3 +26,10 @@ Wilhelm|Bendz|5000
 Sven|Erixon|1500 
 Arthur|Emerson|600 
 Hans|Erni|300
+Pablo|Picasso|9000
+Rembrandt|Rijn|6000
+Sandro|Botticelli|4500
+Edgar|Degas|700
+Jackson|Pollock|1500
+Marcel|Duchamp|3500
+Johannes|Vermeer|4800
