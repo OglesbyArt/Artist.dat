@@ -16,3 +16,13 @@ Frida|Kahlo|9500
 Pieter|Brueghel|6430
 Gustave|Courbet|50
 Paul|Klee|600
+Riza|Abbasi|500 
+Brian|Alfred|6500 
+Michael|Ancher|2000 
+Edward|Bailey|3000 
+Normand|Baker|1000 
+George|Bell|5500 
+Wilhelm|Bendz|5000 
+Sven|Erixon|1500 
+Arthur|Emerson|600 
+Hans|Erni|300
